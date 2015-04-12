@@ -7,4 +7,5 @@ public class Banner {
 		System.out.println("J   J  AAAAA    V V    AAAAA");
 		System.out.println(" J J  A     A    V    A     A");
 	}
+	//Test
 }
