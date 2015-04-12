@@ -25,8 +25,5 @@ public class Population {
 		  		+ "Imigrations: %.2f "
 		  		+ "Deaths:%.2f\n", year,current_population,births,imigrations,deaths);
 		}
-		
-		
 	}
-
 }

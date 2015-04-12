@@ -11,6 +11,4 @@ public class Perimeter {
 		System.out.printf("The area is %.2f\n",area);
 		System.out.printf("The perimeter is %.2f\n",perimeter);
 	}
-
 }
-
